@@ -2,6 +2,8 @@
 
 # 微信推送教程-呆瓜版教程！谁都会！-V 1.3
 
+查看原文：https://github.com/erwanjun/weixin_tuisong
+
 感谢大家支持，这次推出呆瓜版教程，几乎不需要编程基础就能操作并且对接api，只有挂在服务器上有一定门槛
 
 作者:erwanjun
